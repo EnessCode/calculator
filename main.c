@@ -4,11 +4,6 @@
 #include <math.h> //Standart Matematik Kütüphanesi
 #include <time.h> // Tarih-Saat eklemek için
 
-//Açýklama eklendi
-//Kütüphane eklendi
-//Geçmiþ iþlemler eklendi
-//Tarih saat eklendi
-
 int main() {
     int choice;
     double num1, num2, result;
